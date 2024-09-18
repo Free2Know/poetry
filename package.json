@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Free2Know/poetry.git"
+    "url": "git+https://github.com/ddabb/poetry.git"
   },
   "keywords": [
     "诗词和诗人信息"
   ],
-  "author": "free2know",
+  "author": "ddabb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Free2Know/poetry/issues"
+    "url": "https://github.com/ddabb/poetry/issues"
   },
-  "homepage": "https://github.com/Free2Know/poetry#readme"
+  "homepage": "https://github.com/ddabb/poetry#readme"
 }
