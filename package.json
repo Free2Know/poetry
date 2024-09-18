@@ -1,0 +1,26 @@
+{
+  "name": "poetry",
+  "version": "1.0.0",
+  "description": "诗词集合",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "source/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Free2Know/poetry.git"
+  },
+  "keywords": [
+    "诗词和诗人信息"
+  ],
+  "author": "free2know",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Free2Know/poetry/issues"
+  },
+  "homepage": "https://github.com/Free2Know/poetry#readme"
+}
