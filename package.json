@@ -1,6 +1,6 @@
 {
   "name": "poetryesm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "诗词集合",
   "main": "index.js",
   "type": "module",
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/ddabb/poetryesm/issues"
   },
-  "homepage": "https://github.com/ddabb/poetryesm#readme"
+  "homepage": "https://github.com/ddabb/poetryesm#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.21.3"
+  }
 }
