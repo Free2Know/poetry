@@ -1,5 +1,5 @@
 {
-  "_id": "53259e3b0bcc47e0b226fb5a15be045b",
+  "_id": "12ebc9a71dd94cf4a4b44234d5c9f63f",
   "name": "贺新郎",
   "contents": [
     "挥手从兹去。",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "毛泽东",
-  "poetId": "50fa0411df174028b80ea6c6648c93c3",
+  "poetId": "03bfa9f6f8be40bebf2108b19af45511",
   "form": "词",
   "tags": [
     "11.近现代",
-    "毛泽东",
-    ""
+    "毛泽东"
   ]
 }

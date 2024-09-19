@@ -1,5 +1,5 @@
 {
-  "_id": "db5faa07106d42b5a013e5e7a14e26db",
+  "_id": "cfe4bf5d94764042af978e8493d42ecb",
   "name": "赋得鸡",
   "contents": [
     "稻粱犹足活诸雏，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李商隐",
-  "poetId": "1c1222ee1bc9466f96b5fa0cb769c5c7",
+  "poetId": "2771bb31ded849bdac8207fbb5785a3a",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "李商隐",
-    ""
+    "李商隐"
   ]
 }

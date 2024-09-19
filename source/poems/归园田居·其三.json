@@ -1,5 +1,5 @@
 {
-  "_id": "f0dba7755b1941b9a1646ad1491dd742",
+  "_id": "676af51fbc2a468cbec921809c0286b1",
   "name": "归园田居·其三",
   "contents": [
     "种豆南山下，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "陶渊明",
-  "poetId": "2e59dab1bdde483490117fc9d581f122",
+  "poetId": "bfc6e98ad7f442d1a7c49a7c3ed54f1e",
   "form": "五律",
   "tags": [
     "04.南北朝",
-    "陶渊明",
-    ""
+    "陶渊明"
   ]
 }

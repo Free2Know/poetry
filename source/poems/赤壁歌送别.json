@@ -1,5 +1,5 @@
 {
-  "_id": "35658f579527488fb66e7b2d26a8a98b",
+  "_id": "4134807da3c2415b8c7d07425b4541e3",
   "name": "赤壁歌送别",
   "contents": [
     "二龙争战决雌雄，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "3db42cb6b7154e74beb518927db17bc1",
+  "_id": "3337bfa4aa4c48878e20ca8d74fa0751",
   "name": "琴曲歌辞·蔡氏五弄·游春辞二首",
   "contents": [
     "曲江丝柳变烟条，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王涯",
-  "poetId": "9a75c45f300f4ee4af1e8bc61029fce6",
+  "poetId": "9bd06cd28e4d455cb0f821e7cd66b404",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "王涯",
-    ""
+    "王涯"
   ]
 }

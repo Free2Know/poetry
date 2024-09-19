@@ -1,5 +1,5 @@
 {
-  "_id": "b153ba6bdc9e43e3b5f1ffe10154a5b8",
+  "_id": "fec52e2176ec4151af7eaffd9d8d3d73",
   "name": "日暮",
   "contents": [
     "日落风亦起，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

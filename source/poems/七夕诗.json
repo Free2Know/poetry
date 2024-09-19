@@ -1,5 +1,5 @@
 {
-  "_id": "5b40ae607af54f6cac8353ed2171b13a",
+  "_id": "c933b7dc3eb244089ba4f0c4e7c009e8",
   "name": "七夕诗",
   "contents": [
     "乌鹊桥头双扇开，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "赵璜",
-  "poetId": "fa1cd4d8a0df461db120fe13d8e2dff1",
+  "poetId": "0ac4c2bd338c4d26b19e45c14564d67f",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "赵璜",
-    ""
+    "赵璜"
   ]
 }

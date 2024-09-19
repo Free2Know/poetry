@@ -1,5 +1,5 @@
 {
-  "_id": "3a7504f3cf9b492e96024393db776c07",
+  "_id": "d0f5fc95b917488fb74ec7860c5c446e",
   "name": "夜听许十一诵诗爱而有作",
   "contents": [
     "许生五台宾，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "12db88d88e514b7cbfd60cc0f9ffa293",
+  "_id": "a70c27c9c43141e0a51d6f34084ae3f3",
   "name": "临江二首",
   "contents": [
     "泛泛东流水，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王勃",
-  "poetId": "895be36ac87d4db0b8d095b26cae0f05",
+  "poetId": "c7670ea82d5d4d89b2e94df234298b4c",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "王勃",
-    ""
+    "王勃"
   ]
 }

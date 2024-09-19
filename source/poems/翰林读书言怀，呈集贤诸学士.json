@@ -1,5 +1,5 @@
 {
-  "_id": "47fa4dfbae464b21b775e20558bd20be",
+  "_id": "a6af275a85ef42f9bc5097958c54336b",
   "name": "翰林读书言怀，呈集贤诸学士",
   "contents": [
     "晨趋紫禁中，",
@@ -23,11 +23,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

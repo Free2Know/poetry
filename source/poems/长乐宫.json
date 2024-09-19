@@ -1,5 +1,5 @@
 {
-  "_id": "c94126833a34445ebef97872cdb435df",
+  "_id": "cf72f7ec6a3341238cd605b6b79b747a",
   "name": "长乐宫",
   "contents": [
     "秦城旧来称窈窕，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "孟浩然",
-  "poetId": "0c45914b5aa54e3ab0a658708eed6c00",
+  "poetId": "613f112c3eb94ff58f235d9e7cbb5975",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "孟浩然",
-    ""
+    "孟浩然"
   ]
 }

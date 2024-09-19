@@ -1,5 +1,5 @@
 {
-  "_id": "f265b6c3661d42ed99c46f725664ecae",
+  "_id": "e4d132aefb584fe7b44544c7a20b78d4",
   "name": "卖骆马",
   "contents": [
     "五年花下醉骑行，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

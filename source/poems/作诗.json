@@ -1,5 +1,5 @@
 {
-  "_id": "14cd9df6061249cc8c89c80d7af11697",
+  "_id": "4de0d3eaf6e74ecd8dab15a5d377b7bb",
   "name": "作诗",
   "contents": [
     "作诗无知音，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "刘叉",
-  "poetId": "f72b079bd8ca46dab7c10a32ad8faa2d",
+  "poetId": "5f9454205baa4ad19023a84428b84e31",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "刘叉",
-    ""
+    "刘叉"
   ]
 }

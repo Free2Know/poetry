@@ -1,5 +1,5 @@
 {
-  "_id": "59d2a361bb284ba6ab64a0d89ae04bdf",
+  "_id": "bb580e7a8a7945468f0a079e9cbc77e3",
   "name": "幽人",
   "contents": [
     "孤云亦群游，",
@@ -27,11 +27,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

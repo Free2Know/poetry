@@ -1,5 +1,5 @@
 {
-  "_id": "8caef203f33c432796c1c27ec69009fd",
+  "_id": "d5ab0de99dcf4ca8bcac1bdaff08cf69",
   "name": "谒老君庙",
   "contents": [
     "先君怀圣德，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

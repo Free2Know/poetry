@@ -1,5 +1,5 @@
 {
-  "_id": "c94c9560b76346f8851596e3eefc0aab",
+  "_id": "9dd7961b396a4341a9314d0fec95641f",
   "name": "春日归山寄孟浩然",
   "contents": [
     "朱绂遗尘境，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

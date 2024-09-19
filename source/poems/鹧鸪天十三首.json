@@ -1,5 +1,5 @@
 {
-  "_id": "7bbb28dcdc8a4d85a877f490bca15cd6",
+  "_id": "38af40ab56cc4f9995e32f5a9438ba79",
   "name": "鹧鸪天十三首",
   "contents": [
     "春漏逢欢恐不深。",
@@ -123,11 +123,10 @@
   ],
   "ptype": null,
   "poetName": "魏了翁",
-  "poetId": "14e1d38274734b5c9abd5748b30ca904",
+  "poetId": "12aeed393cd743ac8b6bfa4a3e54df09",
   "form": "词",
   "tags": [
     "07.宋代",
-    "魏了翁",
-    ""
+    "魏了翁"
   ]
 }

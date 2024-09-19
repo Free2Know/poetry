@@ -1,5 +1,5 @@
 {
-  "_id": "bee1ea9cf3cb474fb58bb6e87f2fb423",
+  "_id": "deb5c94ddb634edf941c7f723d184630",
   "name": "乐府杂曲·鼓吹曲辞·将进酒",
   "contents": [
     "将进酒，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "元稹",
-  "poetId": "9863285b1f514da9a74432fd80c442aa",
+  "poetId": "e04ddf3e16fd40a3bc351fd163098dda",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "元稹",
-    ""
+    "元稹"
   ]
 }

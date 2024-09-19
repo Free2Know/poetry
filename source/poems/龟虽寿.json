@@ -1,5 +1,5 @@
 {
-  "_id": "db5604525f3c4297971fb8552dc03fc6",
+  "_id": "2c62ea46b8944064a4a9b50b165122bc",
   "name": "龟虽寿",
   "contents": [
     "神龟虽寿，",
@@ -19,11 +19,10 @@
   ],
   "ptype": null,
   "poetName": "曹操",
-  "poetId": "fea8ed23a93e44b5a4e165dacc86adc4",
+  "poetId": "0c297c10526743f0ae16e2233e6719dc",
   "form": "未知",
   "tags": [
     "03.三国两晋",
-    "曹操",
-    ""
+    "曹操"
   ]
 }

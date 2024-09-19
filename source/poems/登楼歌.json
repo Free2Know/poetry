@@ -1,5 +1,5 @@
 {
-  "_id": "2768eef9346a415183a0c3a74239ecb0",
+  "_id": "cf7b93e49c46436282e96bbeb86d8610",
   "name": "登楼歌",
   "contents": [
     "聊上君兮高楼。",
@@ -28,11 +28,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "8e90c7876b1d4e6092fd106197d6876e",
+  "_id": "be91fcbb6e8e41b0b31f1ffe9a93b589",
   "name": "别山僧",
   "contents": [
     "何处名僧到水西，",
@@ -15,11 +15,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

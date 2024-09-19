@@ -1,5 +1,5 @@
 {
-  "_id": "15a8f3c8aef24554b6125c6c718c95d1",
+  "_id": "42fddf250550436eb8051a6c5d7eac59",
   "name": "杂曲歌辞·出门行",
   "contents": [
     "兄弟同出门，",
@@ -73,11 +73,10 @@
   ],
   "ptype": null,
   "poetName": "元稹",
-  "poetId": "9863285b1f514da9a74432fd80c442aa",
+  "poetId": "e04ddf3e16fd40a3bc351fd163098dda",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "元稹",
-    ""
+    "元稹"
   ]
 }

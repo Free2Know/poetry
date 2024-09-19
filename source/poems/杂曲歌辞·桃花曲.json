@@ -1,5 +1,5 @@
 {
-  "_id": "10bebb701f8b473383a2e8959e9f229c",
+  "_id": "ffd6b0be97a448a681d2aec2d4084ab9",
   "name": "杂曲歌辞·桃花曲",
   "contents": [
     "魏帝宫人舞凤楼，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "顾况",
-  "poetId": "257256f854be4894ba52b307a8f77fff",
+  "poetId": "645ccbd5285149148c88a84eee44d640",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "顾况",
-    ""
+    "顾况"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "f9e32fd6fc1e44948c93c5b6d6a2ad29",
+  "_id": "3e30d56bd4ec45fe9b5fa41b9bbd930b",
   "name": "求仙曲",
   "contents": [
     "仙教生为门，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "孟郊",
-  "poetId": "70db4edfcde04a9cbc7179d7a54ca814",
+  "poetId": "03c94ff99104486fbd1c223eade4ad35",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "孟郊",
-    ""
+    "孟郊"
   ]
 }

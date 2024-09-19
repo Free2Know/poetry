@@ -1,5 +1,5 @@
 {
-  "_id": "2d6de1421dac4d2fa4306e4795598999",
+  "_id": "f108865b5c3540cfbf04b395dc2fc43a",
   "name": "答友人赠炭",
   "contents": [
     "青山白屋有仁人，",
@@ -11,11 +11,10 @@
   ],
   "ptype": null,
   "poetName": "孟郊",
-  "poetId": "70db4edfcde04a9cbc7179d7a54ca814",
+  "poetId": "03c94ff99104486fbd1c223eade4ad35",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "孟郊",
-    ""
+    "孟郊"
   ]
 }

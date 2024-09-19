@@ -1,5 +1,5 @@
 {
-  "_id": "e16ff68113a64e749735c7545115980b",
+  "_id": "ab08e375dfc34faf88b33adff484779d",
   "name": "除草",
   "contents": [
     "草有害于人，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

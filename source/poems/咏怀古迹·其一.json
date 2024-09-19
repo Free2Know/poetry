@@ -1,5 +1,5 @@
 {
-  "_id": "6349e3b3380d437a97c8f461fc77a3b2",
+  "_id": "e164867e92074556ba98e3265364cb08",
   "name": "咏怀古迹·其一",
   "contents": [
     "支离东北风尘际，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

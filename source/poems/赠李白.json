@@ -1,5 +1,5 @@
 {
-  "_id": "95df12fa9bd147548e9b79b324f48653",
+  "_id": "07c09be8fc094486ae0c7cdf2d87505d",
   "name": "赠李白",
   "contents": [
     "二年客东都，",
@@ -17,11 +17,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

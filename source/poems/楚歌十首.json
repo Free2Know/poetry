@@ -1,5 +1,5 @@
 {
-  "_id": "0b399f6f8b7246bf991ae517e7fe1275",
+  "_id": "aec7cd356adc4b68a32e2c35bc4e48c4",
   "name": "楚歌十首",
   "contents": [
     "楚人千万户，",
@@ -85,11 +85,10 @@
   ],
   "ptype": null,
   "poetName": "元稹",
-  "poetId": "9863285b1f514da9a74432fd80c442aa",
+  "poetId": "e04ddf3e16fd40a3bc351fd163098dda",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "元稹",
-    ""
+    "元稹"
   ]
 }

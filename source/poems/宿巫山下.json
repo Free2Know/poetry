@@ -1,5 +1,5 @@
 {
-  "_id": "253b9acdc5f5471d83803cb182ba1a5b",
+  "_id": "4203577787f5466f85f58ab3ddcc0f4a",
   "name": "宿巫山下",
   "contents": [
     "昨夜巫山下，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

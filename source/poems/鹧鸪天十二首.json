@@ -1,5 +1,5 @@
 {
-  "_id": "44232861f3874287b27ddfff2342f555",
+  "_id": "1e7c31f4dae74eaaa58ba23372b00604",
   "name": "鹧鸪天十二首",
   "contents": [
     "八彩眉开喜色新。",
@@ -114,11 +114,10 @@
   ],
   "ptype": null,
   "poetName": "晁端礼",
-  "poetId": "c717fb6359eb4a44a204d05dbecbb805",
+  "poetId": "c1aa706dd44d4e9aadecb0643b2ff32f",
   "form": "词",
   "tags": [
     "07.宋代",
-    "晁端礼",
-    ""
+    "晁端礼"
   ]
 }

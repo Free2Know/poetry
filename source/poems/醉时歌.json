@@ -1,5 +1,5 @@
 {
-  "_id": "f82716cb85a64cdf967bfa7378f191de",
+  "_id": "40d744e9d17e477fbcf460d3b588d67a",
   "name": "醉时歌",
   "contents": [
     "诸公衮衮登台省，",
@@ -33,11 +33,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

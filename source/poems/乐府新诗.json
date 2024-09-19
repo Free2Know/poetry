@@ -1,5 +1,5 @@
 {
-  "_id": "8c4e8990c6fc40acb1aa03c474cb2669",
+  "_id": "dbf0a0c56beb4997bb4784602b1099b5",
   "name": "乐府新诗",
   "contents": [
     "一声卢女十三弦，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "徐凝",
-  "poetId": "1774bfa2bfa940dabb2bb0e3904e2200",
+  "poetId": "4db8bbdbaf6746f2b49e636dabc2a90e",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "徐凝",
-    ""
+    "徐凝"
   ]
 }

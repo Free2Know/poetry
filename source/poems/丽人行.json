@@ -1,5 +1,5 @@
 {
-  "_id": "e292b54645ca4f70a6cf1483f60b33f5",
+  "_id": "9feeee5204bd4c8f82b56844619f3de5",
   "name": "丽人行",
   "contents": [
     "三月三日天气新，",
@@ -31,11 +31,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

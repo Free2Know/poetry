@@ -1,5 +1,5 @@
 {
-  "_id": "60c4d0f148e4404b87f93ebaf0a2e8b4",
+  "_id": "99e7d2c01c5948a08ff8db83769c7813",
   "name": "瓜园诗并序",
   "contents": [
     "维瓜园高斋。",
@@ -36,11 +36,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "7d023debc5c64fb8a59d729b20515732",
+  "_id": "0d9f6b48af4b48ce841bdeed5cde93b5",
   "name": "三字诗六首",
   "contents": [
     "寒山道，",
@@ -51,11 +51,10 @@
   ],
   "ptype": null,
   "poetName": "寒山",
-  "poetId": "ce4971bb1c5d4531a403106eaac26f4e",
+  "poetId": "e1c975b534cc447cacd22229d0c23468",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "寒山",
-    ""
+    "寒山"
   ]
 }

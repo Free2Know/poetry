@@ -1,5 +1,5 @@
 {
-  "_id": "7a67c26367d44c1f9681a312fa7c424a",
+  "_id": "6b0f9da1b43e4f99ba212ac05e212eaf",
   "name": "插花吟",
   "contents": [
     "头上花枝照酒卮，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "邵雍",
-  "poetId": "2262ea72b23f40a3bbda5a11299ccb49",
+  "poetId": "647fbf2412a940f28ee7afac6f6f8f43",
   "form": "七律",
   "tags": [
     "07.宋代",
-    "邵雍",
-    ""
+    "邵雍"
   ]
 }

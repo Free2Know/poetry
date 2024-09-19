@@ -1,5 +1,5 @@
 {
-  "_id": "c8333d6b539d42849d1405bbcd111269",
+  "_id": "9e952efe4e6e4a04a8b4fe2cb3d3b13a",
   "name": "蜀道难",
   "contents": [
     "噫吁嚱，",
@@ -55,11 +55,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

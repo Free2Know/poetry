@@ -1,5 +1,5 @@
 {
-  "_id": "e66d930ac7fd462bb3ef6e148d1a87c8",
+  "_id": "b79c1f7abf7c4ab9932ed9a7781fb73f",
   "name": "废畦",
   "contents": [
     "秋蔬拥霜露，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

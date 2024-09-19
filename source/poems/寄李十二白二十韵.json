@@ -1,5 +1,5 @@
 {
-  "_id": "d4b5d4e2a6c2463a8a2415074b15452c",
+  "_id": "fc366aa5feab4d77ad152eec98be6be3",
   "name": "寄李十二白二十韵",
   "contents": [
     "昔年有狂客，",
@@ -46,11 +46,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

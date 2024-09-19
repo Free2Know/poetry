@@ -1,5 +1,5 @@
 {
-  "_id": "e9dd2109deb74fd9bc4eaa08382f8a59",
+  "_id": "c0b2a354655f4a4fa21109e771343be6",
   "name": "书楼怀古",
   "contents": [
     "何独文翁化，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "羊士谔",
-  "poetId": "8c071fcc7dd64b6ea39fcc075fbead04",
+  "poetId": "b8abb76bd26d461abff1ae27a886fce1",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "羊士谔",
-    ""
+    "羊士谔"
   ]
 }

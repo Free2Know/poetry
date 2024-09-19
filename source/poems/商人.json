@@ -1,5 +1,5 @@
 {
-  "_id": "d3672a07ec164a8eb0c3d1505b2a0ecd",
+  "_id": "5d48efb08e924372b6c55d508f9e31be",
   "name": "商人",
   "contents": [
     "百尺竿头五两斜，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "吴融",
-  "poetId": "dda938f77a1640fcbcf61eabff53424d",
+  "poetId": "c8fcad51e3264dc8a7c8162344d3b0e9",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "吴融",
-    ""
+    "吴融"
   ]
 }

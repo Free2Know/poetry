@@ -1,5 +1,5 @@
 {
-  "_id": "f42a186344f94a6a91b49a1d26e53a90",
+  "_id": "3ae14556c5ed41fc98d20676b2ccaf5c",
   "name": "夜饮",
   "contents": [
     "卜夜容衰鬓，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李商隐",
-  "poetId": "1c1222ee1bc9466f96b5fa0cb769c5c7",
+  "poetId": "2771bb31ded849bdac8207fbb5785a3a",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李商隐",
-    ""
+    "李商隐"
   ]
 }

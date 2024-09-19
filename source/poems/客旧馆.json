@@ -1,5 +1,5 @@
 {
-  "_id": "132fe7a003704787b9f2b5cf20fb6a4a",
+  "_id": "7b694417e43847e0bcc2e9def9b129c7",
   "name": "客旧馆",
   "contents": [
     "陈迹随人事，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

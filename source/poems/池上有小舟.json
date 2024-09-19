@@ -1,5 +1,5 @@
 {
-  "_id": "1fb3ee05a2aa4a5d8f16f1017b5b9f12",
+  "_id": "3d9f0ed86259405c9214444fbeffa3a9",
   "name": "池上有小舟",
   "contents": [
     "池上有小舟，",
@@ -27,11 +27,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "472f2d82d7334fdfb1372b3c4d74c11b",
+  "_id": "0ccfbe4fd6134eb283c9848327edc4b8",
   "name": "相和歌辞·班婕妤三首",
   "contents": [
     "玉窗萤影度，",
@@ -17,11 +17,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

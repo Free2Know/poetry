@@ -1,5 +1,5 @@
 {
-  "_id": "973e3b81d1ce4d66871b003118fb9720",
+  "_id": "0c4ae222eee84c49882bfd82fe828929",
   "name": "文王",
   "contents": [
     "文王在上，",
@@ -61,11 +61,10 @@
   ],
   "ptype": null,
   "poetName": "诗经",
-  "poetId": "fb0d86c782734a7392a5c36a0037f8e1",
+  "poetId": "cbd546a2ba314b618a56b03f587cc06e",
   "form": "未知",
   "tags": [
     "01.先秦",
-    "诗经",
-    ""
+    "诗经"
   ]
 }

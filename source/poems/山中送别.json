@@ -1,5 +1,5 @@
 {
-  "_id": "3eb8e01eb32047409956492ac65afa00",
+  "_id": "ae479bf2361748ccb35c23afc8db1f09",
   "name": "山中送别",
   "contents": [
     "山中相送罢，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "五绝",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

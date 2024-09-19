@@ -1,5 +1,5 @@
 {
-  "_id": "a5b67278c7c64cb8a6410bee4a32a910",
+  "_id": "72be74662ada4ebeafea9c98f76084fd",
   "name": "戏和贾常州醉中二绝句",
   "contents": [
     "闻道毗陵诗酒兴，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "b14789317e044984820c7021785bfb5a",
+  "_id": "16aaac7955ca4ca087cb95be5176a58a",
   "name": "贻蜀五首·病马诗寄上李尚书",
   "contents": [
     "万里长鸣望蜀门，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "元稹",
-  "poetId": "9863285b1f514da9a74432fd80c442aa",
+  "poetId": "e04ddf3e16fd40a3bc351fd163098dda",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "元稹",
-    ""
+    "元稹"
   ]
 }

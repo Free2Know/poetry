@@ -1,5 +1,5 @@
 {
-  "_id": "94c2d6d8b2384842a2f97bfd4b71f6f5",
+  "_id": "db7ba027492148ebac5ecd2038cbadd0",
   "name": "山居诗二十四首",
   "contents": [
     "休话喧哗事事难，",
@@ -196,11 +196,10 @@
   ],
   "ptype": null,
   "poetName": "贯休",
-  "poetId": "2010d2499c414e5c920b044c4657b2cb",
+  "poetId": "35ef826ebca24b318ada7e612c75eda6",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "贯休",
-    ""
+    "贯休"
   ]
 }

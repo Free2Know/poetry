@@ -1,5 +1,5 @@
 {
-  "_id": "a702b5dd487b4f1780c64bcc9c85b47c",
+  "_id": "c87cfc4963204c5fb5bfac28b68f7cfc",
   "name": "空囊",
   "contents": [
     "翠柏苦犹食，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

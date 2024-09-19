@@ -1,5 +1,5 @@
 {
-  "_id": "d2f5676072094f81af99e01a308187c5",
+  "_id": "244d0cf4b1db4ca0aa67bb77bc2e06b7",
   "name": "水龙吟",
   "contents": [
     "鸡鸣风雨萧萧，",
@@ -26,11 +26,10 @@
   ],
   "ptype": null,
   "poetName": "刘基",
-  "poetId": "b99ea95c3d944014a3518d554ba1b48f",
+  "poetId": "456fb432ad6f42d9b9e36da4e1d66637",
   "form": "词",
   "tags": [
     "09.明代",
-    "刘基",
-    ""
+    "刘基"
   ]
 }

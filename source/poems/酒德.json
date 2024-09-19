@@ -1,5 +1,5 @@
 {
-  "_id": "333691dbcae849bda63f48445bd2561e",
+  "_id": "c754aa5f4e4941ceacaaf35a54cdea25",
   "name": "酒德",
   "contents": [
     "酒是古明镜，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "孟郊",
-  "poetId": "70db4edfcde04a9cbc7179d7a54ca814",
+  "poetId": "03c94ff99104486fbd1c223eade4ad35",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "孟郊",
-    ""
+    "孟郊"
   ]
 }

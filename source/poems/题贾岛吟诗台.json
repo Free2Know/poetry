@@ -1,5 +1,5 @@
 {
-  "_id": "e509a712c38a4e359d3fde05381f79f1",
+  "_id": "6421b21ff54449c3ab4a47741c3d3a25",
   "name": "题贾岛吟诗台",
   "contents": [
     "此台如可废，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "归仁",
-  "poetId": "0bb0335944284521aa48be69f4ff4cc2",
+  "poetId": "936a03caa43e4df98be94c7d1cad8378",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "归仁",
-    ""
+    "归仁"
   ]
 }

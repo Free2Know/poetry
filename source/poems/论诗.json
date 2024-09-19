@@ -1,5 +1,5 @@
 {
-  "_id": "5e7fc863b8534b59ac90c66b4feb7d93",
+  "_id": "d3bace6e86824a4695d94d952601eb7e",
   "name": "论诗",
   "contents": [
     "李杜诗篇万人传，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "赵翼",
-  "poetId": "6db276d6ef8a4099ad1f752398418a69",
+  "poetId": "e062efdda0b649858ca2141a4fa5e2aa",
   "form": "七绝",
   "tags": [
     "10.清代",
-    "赵翼",
-    ""
+    "赵翼"
   ]
 }

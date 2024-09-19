@@ -1,5 +1,5 @@
 {
-  "_id": "950deb471f474ffbb6e098272204013c",
+  "_id": "f11b9b82675c4837aee82206c5c6861b",
   "name": "戏赠阌乡秦少公短歌",
   "contents": [
     "去年行宫当太白，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

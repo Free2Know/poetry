@@ -1,5 +1,5 @@
 {
-  "_id": "604c0e66710c477e9f1470a12e8aee5e",
+  "_id": "b6e1de12d1104f68bd498f9b634a9990",
   "name": "西阁夜",
   "contents": [
     "恍惚寒山暮，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "9a6639c25007429c82bfe763e9a27d9b",
+  "_id": "3ed2e334bb6f4ae489b56badca58e5a0",
   "name": "赠汪伦",
   "contents": [
     "李白乘舟将欲行，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

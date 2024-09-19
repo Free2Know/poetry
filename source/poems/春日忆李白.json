@@ -1,5 +1,5 @@
 {
-  "_id": "f39ccfaac8af4fde88e6fbaced2ec9e7",
+  "_id": "1b48626392484bbd998c2a8b688a9431",
   "name": "春日忆李白",
   "contents": [
     "白也诗无敌，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "016c5d1b25f34662828975674085aecb",
+  "_id": "a6292210ac3841be835e4f5ba94f22e6",
   "name": "佳人",
   "contents": [
     "绝代有佳人，",
@@ -29,11 +29,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

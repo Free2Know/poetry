@@ -1,5 +1,5 @@
 {
-  "_id": "2953c4f9a2624de9931417535bf48a86",
+  "_id": "bcd37ad43b4a421abe24667a6c8f9f12",
   "name": "滕王亭子",
   "contents": [
     "君王台榭枕巴山，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

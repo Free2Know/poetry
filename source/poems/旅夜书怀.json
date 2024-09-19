@@ -1,5 +1,5 @@
 {
-  "_id": "649b2887a370435c9c9fd8fe5685900f",
+  "_id": "7c91a015b3fa4e40acd86bca5ef753a8",
   "name": "旅夜书怀",
   "contents": [
     "细草微风岸，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

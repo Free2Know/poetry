@@ -1,5 +1,5 @@
 {
-  "_id": "8060c09fefc44ee99e83140f00b9fda0",
+  "_id": "bd81a4e22d2540efb1084b4a8ea8e00b",
   "name": "叹老三首",
   "contents": [
     "晨兴照清镜，",
@@ -45,11 +45,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

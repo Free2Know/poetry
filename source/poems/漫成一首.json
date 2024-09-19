@@ -1,5 +1,5 @@
 {
-  "_id": "908a1a865be343d38655f8902c16e4e5",
+  "_id": "f8bab9d2baa84aa7ab06c8f14bc84017",
   "name": "漫成一首",
   "contents": [
     "江月去人只数尺，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

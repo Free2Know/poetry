@@ -1,5 +1,5 @@
 {
-  "_id": "d0f68dd1009a49d592a7e51aefd5a45b",
+  "_id": "b934a6b3f77b4f9e95eae764e1339d26",
   "name": "李白墓",
   "contents": [
     "采石江边李白坟，",
@@ -11,11 +11,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

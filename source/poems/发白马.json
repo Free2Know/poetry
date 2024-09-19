@@ -1,5 +1,5 @@
 {
-  "_id": "01f8e62f043e4c388f2648a38ffe66f3",
+  "_id": "1e4d91f20f6c4f5b93d916b43d73dd37",
   "name": "发白马",
   "contents": [
     "将军发白马，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

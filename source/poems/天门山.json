@@ -1,5 +1,5 @@
 {
-  "_id": "7fbde196cf5b4fa8aa36313185015255",
+  "_id": "7d8f8890b35c46fc86f9753fa1157419",
   "name": "天门山",
   "contents": [
     "迥出江上山。",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

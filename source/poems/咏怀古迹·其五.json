@@ -1,5 +1,5 @@
 {
-  "_id": "918583a805b44ba6b15af0ce94f33fbb",
+  "_id": "9bf395f8e5f14d00b5627a6f02fbf6d2",
   "name": "咏怀古迹·其五",
   "contents": [
     "诸葛大名垂宇宙，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

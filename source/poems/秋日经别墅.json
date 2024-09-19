@@ -1,5 +1,5 @@
 {
-  "_id": "27b6cbfb52db4e75a52459a18cf79b6e",
+  "_id": "e2e677ee9cbc485286cef04f1ea6987c",
   "name": "秋日经别墅",
   "contents": [
     "别墅萧条海上村，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "吴融",
-  "poetId": "dda938f77a1640fcbcf61eabff53424d",
+  "poetId": "c8fcad51e3264dc8a7c8162344d3b0e9",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "吴融",
-    ""
+    "吴融"
   ]
 }

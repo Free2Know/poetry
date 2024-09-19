@@ -1,5 +1,5 @@
 {
-  "_id": "dd2df7b7de224b118efbbc5d92bc866e",
+  "_id": "b6baa556598c4ed0bc99fd415605dfd1",
   "name": "题山庄",
   "contents": [
     "萝屋萧萧事事幽，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "牟融",
-  "poetId": "3fcc899c9eba4b3facc4dd334c8db38b",
+  "poetId": "c7c382370cae463d85c0f92832b7b23d",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "牟融",
-    ""
+    "牟融"
   ]
 }

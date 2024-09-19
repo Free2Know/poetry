@@ -1,5 +1,5 @@
 {
-  "_id": "0335285f46d5476fbf14299261c67300",
+  "_id": "883fcdf7fa4f4cc18d6c4639026d6ab7",
   "name": "塞下曲·其四",
   "contents": [
     "白马黄金塞，",
@@ -15,11 +15,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

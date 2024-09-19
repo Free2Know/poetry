@@ -1,5 +1,5 @@
 {
-  "_id": "9dd45e05ce5e4e0cb3f09bb1c38066c9",
+  "_id": "d52a5d15115f4c08860b53b6b2e47392",
   "name": "曲江·其一",
   "contents": [
     "一片花飞减却春，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

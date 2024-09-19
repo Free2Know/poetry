@@ -1,5 +1,5 @@
 {
-  "_id": "5127a1c241e2425c9f01e780dcd47894",
+  "_id": "acd5da2795f7429c9613270277a357c3",
   "name": "草书歌行",
   "contents": [
     "少年上人号怀素，",
@@ -32,11 +32,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

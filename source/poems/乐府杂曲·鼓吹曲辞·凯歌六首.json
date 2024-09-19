@@ -1,5 +1,5 @@
 {
-  "_id": "f1e2eeb7c2af4ea98ad3cc8bb1bd97ee",
+  "_id": "dc1c8fe9e5e047f18edb7fb2b144abc3",
   "name": "乐府杂曲·鼓吹曲辞·凯歌六首",
   "contents": [
     "汉将承恩西破戎，",
@@ -29,11 +29,10 @@
   ],
   "ptype": null,
   "poetName": "岑参",
-  "poetId": "b7f498137b6b4b36a5fea97e41566cd9",
+  "poetId": "77a58f32ae514e76913c578aae0230d3",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "岑参",
-    ""
+    "岑参"
   ]
 }

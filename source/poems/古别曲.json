@@ -1,5 +1,5 @@
 {
-  "_id": "9ccf267da2a74427b5a584982a78a0c3",
+  "_id": "e4ec6fbbda664e0aa18cebac3e5b133c",
   "name": "古别曲",
   "contents": [
     "山川古今路，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "孟郊",
-  "poetId": "70db4edfcde04a9cbc7179d7a54ca814",
+  "poetId": "03c94ff99104486fbd1c223eade4ad35",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "孟郊",
-    ""
+    "孟郊"
   ]
 }

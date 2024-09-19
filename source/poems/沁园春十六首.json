@@ -1,5 +1,5 @@
 {
-  "_id": "56162ccb809f4291b470b7d7adf1cbb4",
+  "_id": "c2eab40fdd7b4ac0abd66a350f0070f1",
   "name": "沁园春十六首",
   "contents": [
     "斗酒彘肩，",
@@ -345,11 +345,10 @@
   ],
   "ptype": null,
   "poetName": "刘过",
-  "poetId": "c3c46268976f499b82fa887aee029206",
+  "poetId": "fdd4fe35f9fa40ca848a4a5151eb9f64",
   "form": "词",
   "tags": [
     "07.宋代",
-    "刘过",
-    ""
+    "刘过"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "0c09103fbf334d719ddd5ffcf09b10a0",
+  "_id": "1a42b9c060334004a0cc470c5ac766ba",
   "name": "别东林寺僧",
   "contents": [
     "东林送客处，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五绝",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

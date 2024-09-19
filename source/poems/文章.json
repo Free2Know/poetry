@@ -1,5 +1,5 @@
 {
-  "_id": "d8b27784353f423c8709c338edd3ddec",
+  "_id": "7ecd2745f5254da1a2195698a4ea1b80",
   "name": "文章",
   "contents": [
     "文章本天成，",
@@ -17,11 +17,10 @@
   ],
   "ptype": null,
   "poetName": "陆游",
-  "poetId": "0e9eee92acfc48749a5ba80ed1b6155f",
+  "poetId": "1c6bea7a14844f16a71b37c195c82973",
   "form": "五律",
   "tags": [
     "07.宋代",
-    "陆游",
-    ""
+    "陆游"
   ]
 }

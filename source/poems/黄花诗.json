@@ -1,5 +1,5 @@
 {
-  "_id": "a87e5775dfb14041884dc9ade194edb4",
+  "_id": "3d222dd705fa40558f04b0b5bb62cdf1",
   "name": "黄花诗",
   "contents": [
     "黄花无主为谁容？",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "唐寅",
-  "poetId": "7949bf31654c4897b163aae212049fbf",
+  "poetId": "c789d03932734ecdb49ee232e1f6c12e",
   "form": "七绝",
   "tags": [
     "09.明代",
-    "唐寅",
-    ""
+    "唐寅"
   ]
 }

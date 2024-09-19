@@ -1,5 +1,5 @@
 {
-  "_id": "15c98bf858324770af23fc5c03576de9",
+  "_id": "49c647e5d37344de9c32dfc39b22cf9c",
   "name": "九歌·湘夫人",
   "contents": [
     "帝子降兮北渚，",
@@ -45,11 +45,10 @@
   ],
   "ptype": null,
   "poetName": "屈原",
-  "poetId": "fc1e02bb662b4c6a8dc067970e08638f",
+  "poetId": "b3511831b09a4fe9a9c9ee10f817941d",
   "form": "未知",
   "tags": [
     "01.先秦",
-    "屈原",
-    ""
+    "屈原"
   ]
 }

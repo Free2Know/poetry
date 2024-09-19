@@ -1,26 +1,39 @@
 {
-  "name": "poetry",
-  "version": "1.0.0",
+  "name": "poetryesm",
+  "version": "1.0.7",
   "description": "诗词集合",
-  "main": "index.js",
   "type": "module",
+  "main": "index.node.js",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.esm.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "build": "rollup -c",
+    "start": "node server.js"
   },
   "files": [
-    "source/"
+    "dist/",
+    "source/",
+    "index.node.js",
+    "index.browser.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ddabb/poetry.git"
+    "url": "git+https://github.com/ddabb/poetryesm.git"
   },
   "keywords": [
     "诗词和诗人信息"
   ],
-  "author": "ddabb",
+  "author": "free2know",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ddabb/poetry/issues"
+    "url": "https://github.com/ddabb/poetryesm/issues"
   },
-  "homepage": "https://github.com/ddabb/poetry#readme"
+  "homepage": "https://github.com/ddabb/poetryesm#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.21.3",
+    "express": "^4.18.2"
+  }
 }

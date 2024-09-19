@@ -1,5 +1,5 @@
 {
-  "_id": "f95cc77c76024d0abe451a1ff4ad97f6",
+  "_id": "537d03d0ac304ef283224373d5d8f308",
   "name": "舞曲歌辞·白纻歌二首",
   "contents": [
     "天河漫漫北斗粲，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "王建",
-  "poetId": "e7908ed42dc84e5a98e44132daf727fa",
+  "poetId": "e4c0f1b14bb84f5580d380c406f4ed58",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王建",
-    ""
+    "王建"
   ]
 }
