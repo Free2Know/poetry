@@ -1,5 +1,5 @@
 {
-  "_id": "7d569e99cfa14e678bcf6b2189ccf5d3",
+  "_id": "5278ee60d6a748db992f3c558afa90cf",
   "name": "夜坐吟",
   "contents": [
     "踏踏马蹄谁见过？",
@@ -14,11 +14,10 @@
   ],
   "ptype": null,
   "poetName": "李贺",
-  "poetId": "cd247d8e8f974620a738b26e2464470c",
+  "poetId": "a9fc5f44a7474857a8c6fe39ffbad132",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李贺",
-    ""
+    "李贺"
   ]
 }

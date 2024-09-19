@@ -1,5 +1,5 @@
 {
-  "_id": "bf1bf63cebac48d6b1bf0d7242f216bb",
+  "_id": "9a6a38a2831b439d83fff25028eeecc5",
   "name": "花鸭",
   "contents": [
     "花鸭无泥滓，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

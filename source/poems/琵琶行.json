@@ -1,5 +1,5 @@
 {
-  "_id": "bbaf665111db4690805afcf6c55966a5",
+  "_id": "41b0ece3fea440a3bab8b56c6815f8e1",
   "name": "琵琶行",
   "contents": [
     "浔阳江头夜送客，",
@@ -93,11 +93,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

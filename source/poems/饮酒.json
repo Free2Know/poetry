@@ -1,5 +1,5 @@
 {
-  "_id": "9cb71a49e56d4da687dfc3520921ede1",
+  "_id": "e1f28e89f8054ee399714d6ad6cc785d",
   "name": "饮酒",
   "contents": [
     "今夕少愉乐，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "柳宗元",
-  "poetId": "441d896e0e0d4e9da0d10774675ef764",
+  "poetId": "dbebad3f24884e808875eb6b53de400b",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "柳宗元",
-    ""
+    "柳宗元"
   ]
 }

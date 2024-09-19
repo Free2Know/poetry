@@ -1,5 +1,5 @@
 {
-  "_id": "3b81ab092b0e41ec90f151323c34ac57",
+  "_id": "a3fd7a3bc01c4c5cbf3df2c0d5c648bb",
   "name": "寓言二首",
   "contents": [
     "春草纷碧色，",
@@ -27,11 +27,10 @@
   ],
   "ptype": null,
   "poetName": "贾至",
-  "poetId": "0d8775b64eb64b0d9a7af0ec1f1483ff",
+  "poetId": "0c40d51913be45c0a901144969128052",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "贾至",
-    ""
+    "贾至"
   ]
 }

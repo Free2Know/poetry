@@ -1,5 +1,5 @@
 {
-  "_id": "5cd5008ce2e045f9bef2c946aba76c15",
+  "_id": "c3f7d534727f4d5cbe9bc69c02e465f0",
   "name": "钱塘湖春行",
   "contents": [
     "孤山寺北贾亭西，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "b5876fa46e484a618fcd495c003a2e65",
+  "_id": "c53c2fd5cdcb4c7e919adfc41f10d9ac",
   "name": "梦李白二首",
   "contents": [
     "死别已吞声，",
@@ -37,11 +37,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

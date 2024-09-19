@@ -1,5 +1,5 @@
 {
-  "_id": "bdb0d0666426424aa74b9fb4578e5424",
+  "_id": "de648878cb314c0488d8c4197f590cf6",
   "name": "宴胡侍御书堂",
   "contents": [
     "江湖春欲暮，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

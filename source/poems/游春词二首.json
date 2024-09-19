@@ -1,5 +1,5 @@
 {
-  "_id": "afe2690e7c88497dad0f2ee4518f20ae",
+  "_id": "dd396d361c614712b64f0e2a64ed1a85",
   "name": "游春词二首",
   "contents": [
     "曲江绿柳变烟条，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王涯",
-  "poetId": "9a75c45f300f4ee4af1e8bc61029fce6",
+  "poetId": "9bd06cd28e4d455cb0f821e7cd66b404",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "王涯",
-    ""
+    "王涯"
   ]
 }

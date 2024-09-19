@@ -1,5 +1,5 @@
 {
-  "_id": "7098f3edb7aa4657862d35919f1e26f5",
+  "_id": "4e7940901eff453f93c10e9f2d2a9761",
   "name": "九歌·山鬼",
   "contents": [
     "若有人兮山之阿，",
@@ -32,11 +32,10 @@
   ],
   "ptype": null,
   "poetName": "屈原",
-  "poetId": "fc1e02bb662b4c6a8dc067970e08638f",
+  "poetId": "b3511831b09a4fe9a9c9ee10f817941d",
   "form": "未知",
   "tags": [
     "01.先秦",
-    "屈原",
-    ""
+    "屈原"
   ]
 }

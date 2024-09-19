@@ -1,5 +1,5 @@
 {
-  "_id": "96a3c7242bca4159ad031f2dfc91c345",
+  "_id": "d1e67ca06ed342daa3b7a4c08ce45115",
   "name": "玉台观",
   "contents": [
     "中天积翠玉台遥，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

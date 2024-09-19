@@ -1,5 +1,5 @@
 {
-  "_id": "f49d2f70f7094bbea74b0805852d487e",
+  "_id": "1fefb037713a4042848880d0e93fd1d8",
   "name": "相和歌辞·襄阳曲",
   "contents": [
     "襄阳堤路长，",
@@ -15,11 +15,10 @@
   ],
   "ptype": null,
   "poetName": "李端",
-  "poetId": "12673fafe29e46279fcc366fe79b72e7",
+  "poetId": "d49a87724e4b436aab7e04e56ad3d93e",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李端",
-    ""
+    "李端"
   ]
 }

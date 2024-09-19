@@ -1,5 +1,5 @@
 {
-  "_id": "c179bc07149a4c8b81944061e91efbfe",
+  "_id": "e8c4d10bc7ef41ebb2ac9fbae826424f",
   "name": "俗谚",
   "contents": [
     "白日无谈人，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "唐无名氏",
-  "poetId": "9ed274b6462c46319c4187799fadb7be",
+  "poetId": "5fb2c729b42a4746a5b376b70c9d5229",
   "form": "五绝",
   "tags": [
     "06.唐代",
-    "唐无名氏",
-    ""
+    "唐无名氏"
   ]
 }

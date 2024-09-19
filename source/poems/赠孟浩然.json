@@ -1,5 +1,5 @@
 {
-  "_id": "c8fe89c706d149b1aef16b807074c1a3",
+  "_id": "b0762287c6764ac298856c1debfaf033",
   "name": "赠孟浩然",
   "contents": [
     "吾爱孟夫子，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

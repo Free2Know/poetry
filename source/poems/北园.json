@@ -1,5 +1,5 @@
 {
-  "_id": "1f2719b33b1a4b50aeab1ac90a50a9b0",
+  "_id": "d92bc05a259d4ab68d3eeea4c3570dd0",
   "name": "北园",
   "contents": [
     "北园东风起，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

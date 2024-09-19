@@ -1,5 +1,5 @@
 {
-  "_id": "537f5a3f242b4de49e9825ca7631def2",
+  "_id": "bd8e2dd24e6f4048b2ad5cab2c470009",
   "name": "吾宗",
   "contents": [
     "吾宗老孙子，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

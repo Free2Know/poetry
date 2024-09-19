@@ -1,5 +1,5 @@
 {
-  "_id": "57342ef170ec42ff84b32e484c89b0d8",
+  "_id": "dfe6c4bcb35b4dcd99782ba20646391f",
   "name": "唐乐府十首·送征夫",
   "contents": [
     "昔送征夫苦，",
@@ -11,11 +11,10 @@
   ],
   "ptype": null,
   "poetName": "刘驾",
-  "poetId": "2781f357247a4081a84b839406ec87e8",
+  "poetId": "41306bf7eb664addb27d8b1258f18b40",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "刘驾",
-    ""
+    "刘驾"
   ]
 }

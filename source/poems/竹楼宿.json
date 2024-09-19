@@ -1,5 +1,5 @@
 {
-  "_id": "e2a7a49f4a4a4cb396147bd2269d3b0d",
+  "_id": "301cddd75a7e4f02adfd2ea262567806",
   "name": "竹楼宿",
   "contents": [
     "小书楼下千竿竹，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

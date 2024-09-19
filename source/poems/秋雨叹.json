@@ -1,5 +1,5 @@
 {
-  "_id": "4b5aaa36b01d400abe5dc1191c79e49e",
+  "_id": "9b9f79b704fc46039061d73c415198e2",
   "name": "秋雨叹",
   "contents": [
     "雨中白草秋烂死，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

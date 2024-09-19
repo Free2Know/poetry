@@ -1,5 +1,5 @@
 {
-  "_id": "62155eeee2e44a57988bafbb1fee8fd3",
+  "_id": "ccd7d60c7186453c9ecf8c9037b3aaec",
   "name": "送李校书二十六韵",
   "contents": [
     "代北有豪鹰，",
@@ -57,11 +57,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

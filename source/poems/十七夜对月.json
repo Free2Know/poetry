@@ -1,5 +1,5 @@
 {
-  "_id": "2bbe3f51e7fd45df83c2b02e11ee38c8",
+  "_id": "e8cf0b247af74bdbad9999e1c4afb5ef",
   "name": "十七夜对月",
   "contents": [
     "秋月仍圆夜，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

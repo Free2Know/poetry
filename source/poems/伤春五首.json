@@ -1,5 +1,5 @@
 {
-  "_id": "9e38d8c9a40847b7b4c295da7c0e6cd3",
+  "_id": "471c2e3d82104b69a0abfbf694fbcaae",
   "name": "伤春五首",
   "contents": [
     "天下兵虽满，",
@@ -65,11 +65,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

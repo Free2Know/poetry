@@ -1,5 +1,5 @@
 {
-  "_id": "6af24e3505784f55acec159273788bbb",
+  "_id": "522b29edb9394e3a98550c3cf977850c",
   "name": "近闻",
   "contents": [
     "近闻犬戎远遁逃，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

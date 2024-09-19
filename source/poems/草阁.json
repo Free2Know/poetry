@@ -1,5 +1,5 @@
 {
-  "_id": "78ca46e3824e4149b3ab3a8a688c33d1",
+  "_id": "eeda9330e52447dd8e45c7dad9bbacfc",
   "name": "草阁",
   "contents": [
     "草阁临无地，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

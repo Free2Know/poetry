@@ -1,5 +1,5 @@
 {
-  "_id": "2d26415df4464c0ca1e0319e58b9a052",
+  "_id": "72a64a3af86a4e7ab81ec9602ed4ce82",
   "name": "四言诗",
   "contents": [
     "取金之精，",
@@ -43,11 +43,10 @@
   ],
   "ptype": null,
   "poetName": "孙思邈",
-  "poetId": "deda95b6a4da41708e5bb9720a9fc1d8",
+  "poetId": "1f41eca3579247ecb0632403cd3f771d",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "孙思邈",
-    ""
+    "孙思邈"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "55c22bb5eaef44f0bf2325f9b371ae40",
+  "_id": "648f22a45adf4dde95a364b0263ece76",
   "name": "拟挽歌辞",
   "contents": [
     "在昔无酒饮，",
@@ -19,11 +19,10 @@
   ],
   "ptype": null,
   "poetName": "陶渊明",
-  "poetId": "2e59dab1bdde483490117fc9d581f122",
+  "poetId": "bfc6e98ad7f442d1a7c49a7c3ed54f1e",
   "form": "未知",
   "tags": [
     "04.南北朝",
-    "陶渊明",
-    ""
+    "陶渊明"
   ]
 }

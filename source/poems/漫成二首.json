@@ -1,5 +1,5 @@
 {
-  "_id": "dca1ef9c03a14a15986a7c3a1646f44c",
+  "_id": "af72e0e040e2407ebc8554bcc821bbbc",
   "name": "漫成二首",
   "contents": [
     "野日荒荒白，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

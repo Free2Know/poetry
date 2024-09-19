@@ -1,5 +1,5 @@
 {
-  "_id": "9ee45a09d80f48b8b7cef2ab70f8d9a8",
+  "_id": "0d3c22f860e3426ab433d28a7a558fb6",
   "name": "相和歌辞·读曲歌五首",
   "contents": [
     "窗中独自起，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "张祜",
-  "poetId": "03ce3b6c2c524f708213939828d7fb40",
+  "poetId": "3a86db0ed7e4461794e5c0aa5ffb339c",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "张祜",
-    ""
+    "张祜"
   ]
 }

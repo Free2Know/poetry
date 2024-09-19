@@ -1,5 +1,5 @@
 {
-  "_id": "4a550034f1384c2b8f9aee696ee4915b",
+  "_id": "8e2755dbf11f4fefb78e2a1ee33306f3",
   "name": "江南春怀",
   "contents": [
     "青春几何时，",
@@ -15,11 +15,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "词",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "ba82f7c7d58748659e9869644a32e46c",
+  "_id": "3924f79d613a40ddbbe9ed39e70be38f",
   "name": "琴曲歌辞·别鹤",
   "contents": [
     "主人一去池水绝，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王建",
-  "poetId": "e7908ed42dc84e5a98e44132daf727fa",
+  "poetId": "e4c0f1b14bb84f5580d380c406f4ed58",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "王建",
-    ""
+    "王建"
   ]
 }

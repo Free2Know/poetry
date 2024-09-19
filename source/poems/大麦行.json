@@ -1,5 +1,5 @@
 {
-  "_id": "0d5fffeb82bd4d479fcaa1228f32b858",
+  "_id": "3bbcf0c3879e4aad891892321460d809",
   "name": "大麦行",
   "contents": [
     "大麦干枯小麦黄，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

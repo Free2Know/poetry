@@ -1,5 +1,5 @@
 {
-  "_id": "b187420f8d6f497f80eac9dd0b946a19",
+  "_id": "137f764cd51d402590d0ef0452e0c8bd",
   "name": "春宵",
   "contents": [
     "春宵一刻值千金，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "苏轼",
-  "poetId": "aa1b986440484e56bc535eeee7d1d7cf",
+  "poetId": "a2dfeee3453b44a986f42154d40f53a5",
   "form": "七绝",
   "tags": [
     "07.宋代",
-    "苏轼",
-    ""
+    "苏轼"
   ]
 }

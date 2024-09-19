@@ -1,5 +1,5 @@
 {
-  "_id": "312c33e64815488fa039cf646c22c32c",
+  "_id": "6f2089cc3f1c49bcba209d90b6cb7c38",
   "name": "挽文丞相",
   "contents": [
     "徒把金戈挽落晖，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "虞集",
-  "poetId": "7a4098c24e7c4d8da9e7367bee60998e",
+  "poetId": "f802fe8c5be54b6a91f10795ef36fab9",
   "form": "七律",
   "tags": [
     "08.元代",
-    "虞集",
-    ""
+    "虞集"
   ]
 }

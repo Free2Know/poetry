@@ -1,5 +1,5 @@
 {
-  "_id": "a456971785284fe99617040b8190879c",
+  "_id": "d6f1a9df40724e8b8f6a65f8c3fec5d6",
   "name": "赠章仇将军",
   "contents": [
     "将军不夸剑，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "孟郊",
-  "poetId": "70db4edfcde04a9cbc7179d7a54ca814",
+  "poetId": "03c94ff99104486fbd1c223eade4ad35",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "孟郊",
-    ""
+    "孟郊"
   ]
 }

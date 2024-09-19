@@ -1,5 +1,5 @@
 {
-  "_id": "6c0073f097c9471db80a7fd2f13b86e4",
+  "_id": "19f4ee868a8a4f02b058b5a8dc8e7227",
   "name": "寄赠诗僧秀公",
   "contents": [
     "灵一心传清塞心，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "司空图",
-  "poetId": "d352662e762446d1a7bb8cc679ae21fa",
+  "poetId": "4be2bf3b9086404c826f6ded716d2963",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "司空图",
-    ""
+    "司空图"
   ]
 }

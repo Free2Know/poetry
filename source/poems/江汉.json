@@ -1,5 +1,5 @@
 {
-  "_id": "b56c3bd5b0fe4484be4afeba3512d952",
+  "_id": "6e31a101cfe64755a790c72b1fd20aa0",
   "name": "江汉",
   "contents": [
     "江汉思归客，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

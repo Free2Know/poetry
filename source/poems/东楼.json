@@ -1,5 +1,5 @@
 {
-  "_id": "6ded1712a0884176877f760a96084ae9",
+  "_id": "a7408b2f503147129b574f43457eeb13",
   "name": "东楼",
   "contents": [
     "万里流沙道，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

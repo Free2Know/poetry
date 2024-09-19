@@ -1,5 +1,5 @@
 {
-  "_id": "b75795f6dabf464095651bdc18ead997",
+  "_id": "9d70c80e6d6f4f99806c42aa74aeb81b",
   "name": "鲁郡尧祠送吴五之琅琊",
   "contents": [
     "尧没三千岁，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "e34a032775bf4bffb38766af151c1234",
+  "_id": "7529184fecdd486fb03b3b48f3dee953",
   "name": "相和歌辞·王昭君",
   "contents": [
     "敛容辞豹尾，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "骆宾王",
-  "poetId": "c04acbe3abf148e3ae628bf024dd8a74",
+  "poetId": "fc99ba1506f7440b99b0946b24173672",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "骆宾王",
-    ""
+    "骆宾王"
   ]
 }

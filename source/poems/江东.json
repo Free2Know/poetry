@@ -1,5 +1,5 @@
 {
-  "_id": "5bfd8c1b2ade4856bfc387e43d6f7798",
+  "_id": "e9a0d694abe84027ade45d1beb84ec2f",
   "name": "江东",
   "contents": [
     "惊鱼拨剌燕翩翾，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李商隐",
-  "poetId": "1c1222ee1bc9466f96b5fa0cb769c5c7",
+  "poetId": "2771bb31ded849bdac8207fbb5785a3a",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "李商隐",
-    ""
+    "李商隐"
   ]
 }

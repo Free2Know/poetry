@@ -1,5 +1,5 @@
 {
-  "_id": "c5dd9fd6fc094f43b242eef7e0a8dfae",
+  "_id": "e12c7b30a30d4064a466d5da824f1f0c",
   "name": "代人村中悼亡二首",
   "contents": [
     "花落茅檐转寂寥，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "刘商",
-  "poetId": "8be5162c13cf4cc29d27e6f9477fcbaf",
+  "poetId": "599b6fe16077451ba839ff95c1e592f5",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "刘商",
-    ""
+    "刘商"
   ]
 }

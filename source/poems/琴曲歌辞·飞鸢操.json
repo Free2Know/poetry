@@ -1,5 +1,5 @@
 {
-  "_id": "6268b2fabb4540f2a7bb72e4e9d32c19",
+  "_id": "88199c07389d45f180e5d0f6374bcd9e",
   "name": "琴曲歌辞·飞鸢操",
   "contents": [
     "鸢飞杳杳青云里，",
@@ -29,11 +29,10 @@
   ],
   "ptype": null,
   "poetName": "刘禹锡",
-  "poetId": "edc0d18d2eb3491bb0a2ac7b77030e0a",
+  "poetId": "f708c5d8cf5d4324bdc3a709ea718fd3",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "刘禹锡",
-    ""
+    "刘禹锡"
   ]
 }

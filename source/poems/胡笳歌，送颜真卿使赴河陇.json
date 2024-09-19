@@ -1,5 +1,5 @@
 {
-  "_id": "42a0c59ac0fe44a7aacda89038fe6f01",
+  "_id": "a16b3ac87f53405190fd62c87404901d",
   "name": "胡笳歌，送颜真卿使赴河陇",
   "contents": [
     "君不闻胡笳声最悲，",
@@ -17,11 +17,10 @@
   ],
   "ptype": null,
   "poetName": "岑参",
-  "poetId": "b7f498137b6b4b36a5fea97e41566cd9",
+  "poetId": "77a58f32ae514e76913c578aae0230d3",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "岑参",
-    ""
+    "岑参"
   ]
 }

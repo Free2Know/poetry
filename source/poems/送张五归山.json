@@ -1,5 +1,5 @@
 {
-  "_id": "1c52f04b28d341ee9d6e541a4fb6266b",
+  "_id": "4bb2311f235e4c7d8c2654cf0ca46219",
   "name": "送张五归山",
   "contents": [
     "送君尽惆怅。",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

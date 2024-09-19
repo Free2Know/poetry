@@ -1,5 +1,5 @@
 {
-  "_id": "f5a3062438d44ac6a4ff2c0d1b1e785f",
+  "_id": "a2862ad5aa7c42b991628a9a1fec816c",
   "name": "暮春对柳二首",
   "contents": [
     "萦愁惹恨奈杨花，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "司空图",
-  "poetId": "d352662e762446d1a7bb8cc679ae21fa",
+  "poetId": "4be2bf3b9086404c826f6ded716d2963",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "司空图",
-    ""
+    "司空图"
   ]
 }

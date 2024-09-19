@@ -1,5 +1,5 @@
 {
-  "_id": "02d3e903a2d54e279f3c90018c7dd2db",
+  "_id": "4273585d9e0043d5aff4f9d9db6b36de",
   "name": "锦瑟",
   "contents": [
     "锦瑟无端五十弦，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李商隐",
-  "poetId": "1c1222ee1bc9466f96b5fa0cb769c5c7",
+  "poetId": "2771bb31ded849bdac8207fbb5785a3a",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "李商隐",
-    ""
+    "李商隐"
   ]
 }

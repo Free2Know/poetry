@@ -1,5 +1,5 @@
 {
-  "_id": "f1aa450a98f74593ad19ac8cc3c45483",
+  "_id": "d446a8db018d47eaaf5952e8a5f10ca1",
   "name": "独游玉泉寺",
   "contents": [
     "云树玉泉寺，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

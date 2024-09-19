@@ -1,5 +1,5 @@
 {
-  "_id": "03a4caf4ecb9412fb45db424d0923fc9",
+  "_id": "2eb4175b025c49b2af2e0b90ba17e6c0",
   "name": "送武士曹归蜀",
   "contents": [
     "花落鸟嘤嘤，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

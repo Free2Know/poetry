@@ -1,5 +1,5 @@
 {
-  "_id": "736c34a289ea41b3858ce29aa7f8bd9c",
+  "_id": "f26a976fba2b40f8b877c8cb7a1bd23a",
   "name": "引水",
   "contents": [
     "月峡瞿塘云作顶，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

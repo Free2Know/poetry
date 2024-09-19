@@ -1,5 +1,5 @@
 {
-  "_id": "6163523b866e48abbcae455d91be244f",
+  "_id": "cc8a6b2037f8452e8c59afa6feae7bc3",
   "name": "滕王阁诗",
   "contents": [
     "滕王高阁临江渚，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王勃",
-  "poetId": "895be36ac87d4db0b8d095b26cae0f05",
+  "poetId": "c7670ea82d5d4d89b2e94df234298b4c",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "王勃",
-    ""
+    "王勃"
   ]
 }

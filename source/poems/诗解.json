@@ -1,5 +1,5 @@
 {
-  "_id": "51aef36d76cb40fa83e09494fcb6840f",
+  "_id": "56a61ae32df84bf6b5e30b87dd7dd672",
   "name": "诗解",
   "contents": [
     "新篇日日成，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

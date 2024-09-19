@@ -1,5 +1,5 @@
 {
-  "_id": "1f4c8939944447909e61ab6a98a0d4bc",
+  "_id": "76b46f603f924f1f8da66d93e16040d4",
   "name": "谒先主庙",
   "contents": [
     "惨淡风云会，",
@@ -37,11 +37,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

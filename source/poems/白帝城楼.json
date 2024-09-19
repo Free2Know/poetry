@@ -1,5 +1,5 @@
 {
-  "_id": "604392c75e2245458c3320ad00b45264",
+  "_id": "1bd0cb2da97a4ce39347d0f1c4f0f67c",
   "name": "白帝城楼",
   "contents": [
     "江度寒山阁，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

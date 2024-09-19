@@ -1,5 +1,5 @@
 {
-  "_id": "98a0c5dd8c804a11bb00dc205ae1de4a",
+  "_id": "c8c1f34c46584eed95273d26e292fc38",
   "name": "长相思·其一",
   "contents": [
     "长相思，",
@@ -18,11 +18,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

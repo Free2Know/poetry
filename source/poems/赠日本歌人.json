@@ -1,5 +1,5 @@
 {
-  "_id": "2350b1bcebca48d4bb2d367ca96181b9",
+  "_id": "df161710568a46009d44d8d59eb07b74",
   "name": "赠日本歌人",
   "contents": [
     "春江好景依然在，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "鲁迅",
-  "poetId": "4b2b00b673c745988aa9012c16d18485",
+  "poetId": "003c5bb6dbe14489aca0075fbcd4ab5e",
   "form": "七绝",
   "tags": [
     "11.近现代",
-    "鲁迅",
-    ""
+    "鲁迅"
   ]
 }

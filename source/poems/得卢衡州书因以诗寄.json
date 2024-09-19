@@ -1,5 +1,5 @@
 {
-  "_id": "a30c24c60fca48eb9b48cf37cfab8b56",
+  "_id": "f8fe57083d6a4e19928a4b6c266bf6fd",
   "name": "得卢衡州书因以诗寄",
   "contents": [
     "临蒸且莫叹炎方，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "柳宗元",
-  "poetId": "441d896e0e0d4e9da0d10774675ef764",
+  "poetId": "dbebad3f24884e808875eb6b53de400b",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "柳宗元",
-    ""
+    "柳宗元"
   ]
 }

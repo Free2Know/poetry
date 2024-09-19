@@ -1,5 +1,5 @@
 {
-  "_id": "3d5238adb425472e8c1f4eb115a175b0",
+  "_id": "d949088fc41e469a994f3d2b476af27f",
   "name": "旅馆梅花",
   "contents": [
     "清香无以敌寒梅，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "吴融",
-  "poetId": "dda938f77a1640fcbcf61eabff53424d",
+  "poetId": "c8fcad51e3264dc8a7c8162344d3b0e9",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "吴融",
-    ""
+    "吴融"
   ]
 }

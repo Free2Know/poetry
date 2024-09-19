@@ -1,5 +1,5 @@
 {
-  "_id": "65c9c8064b2c4df0a00af40586d9e086",
+  "_id": "f805459a1e2d4fe28ae8956a11be996e",
   "name": "桃花庵歌",
   "contents": [
     "桃花坞里桃花庵，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "唐寅",
-  "poetId": "7949bf31654c4897b163aae212049fbf",
+  "poetId": "c789d03932734ecdb49ee232e1f6c12e",
   "form": "未知",
   "tags": [
     "09.明代",
-    "唐寅",
-    ""
+    "唐寅"
   ]
 }

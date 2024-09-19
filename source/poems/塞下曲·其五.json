@@ -1,5 +1,5 @@
 {
-  "_id": "2a0ad20077d7425abc45845c51f28144",
+  "_id": "048484f6ab6f4a5f80ed855a03d56473",
   "name": "塞下曲·其五",
   "contents": [
     "塞虏乘秋下，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

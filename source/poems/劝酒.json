@@ -1,5 +1,5 @@
 {
-  "_id": "7f6758bb79bc4b2eaa04d1ac3e24cf00",
+  "_id": "12fe4b0a3e894b4c88ea9debc8cc1324",
   "name": "劝酒",
   "contents": [
     "昨与美人对尊酒，",
@@ -43,11 +43,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

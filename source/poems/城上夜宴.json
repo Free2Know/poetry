@@ -1,5 +1,5 @@
 {
-  "_id": "963c31bda7b14c4aa19a08eb9ec54a5d",
+  "_id": "c1aabbc4e3e24acf96b6f230a1e65ec5",
   "name": "城上夜宴",
   "contents": [
     "留春不住登城望，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

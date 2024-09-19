@@ -1,5 +1,5 @@
 {
-  "_id": "6d61f0f3ebe543ae8cabb6e8d81eb066",
+  "_id": "5647e5fd345f4991845c891a7e056d2b",
   "name": "琴曲歌辞·蔡氏五弄·秋思二首",
   "contents": [
     "胡风吹雁翼，",
@@ -47,11 +47,10 @@
   ],
   "ptype": null,
   "poetName": "鲍溶",
-  "poetId": "f56f28362c1a41cda98a75ae87c46c05",
+  "poetId": "573cd37f2fa84977bd69787588224a32",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "鲍溶",
-    ""
+    "鲍溶"
   ]
 }

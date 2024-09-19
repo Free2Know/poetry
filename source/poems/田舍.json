@@ -1,5 +1,5 @@
 {
-  "_id": "51ee3f469d174e8f9ba2214b0d360c45",
+  "_id": "904efac73aa94c1f87529f88149880cf",
   "name": "田舍",
   "contents": [
     "田舍清江曲，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

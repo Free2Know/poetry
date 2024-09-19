@@ -1,5 +1,5 @@
 {
-  "_id": "3df1b421cee94c2ca7a85bf4d65d9a40",
+  "_id": "5e4cd6c178fb4d778d5323ccbf960261",
   "name": "杂歌",
   "contents": [
     "汉水至清泥则浊，",
@@ -33,11 +33,10 @@
   ],
   "ptype": null,
   "poetName": "李端",
-  "poetId": "12673fafe29e46279fcc366fe79b72e7",
+  "poetId": "d49a87724e4b436aab7e04e56ad3d93e",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李端",
-    ""
+    "李端"
   ]
 }

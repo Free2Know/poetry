@@ -1,5 +1,5 @@
 {
-  "_id": "74c4406bda1046b49b6a408e3beab6d5",
+  "_id": "97f526e2fa9f4001a2de2bd546c7ba0f",
   "name": "池鹤八绝句·乌赠鹤",
   "contents": [
     "与君白黑大分明，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

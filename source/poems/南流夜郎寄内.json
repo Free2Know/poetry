@@ -1,5 +1,5 @@
 {
-  "_id": "e49b1532c6b74d35a010875d071d6f68",
+  "_id": "d276c0268bac46689c945d6d2abff375",
   "name": "南流夜郎寄内",
   "contents": [
     "夜郎天外怨离居，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

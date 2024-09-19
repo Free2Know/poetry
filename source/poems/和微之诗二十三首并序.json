@@ -1,5 +1,5 @@
 {
-  "_id": "d675a747faf049eb9b0eeba0fa273d7e",
+  "_id": "abc32ab4e7fc484abb97c4d576b26a5e",
   "name": "和微之诗二十三首并序",
   "contents": [
     "微之又以近作四十三首寄来，",
@@ -46,11 +46,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

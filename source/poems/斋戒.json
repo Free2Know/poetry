@@ -1,5 +1,5 @@
 {
-  "_id": "a132ec5b03684c69bb86ae579cb551d6",
+  "_id": "f11aaaf8ccc145e6adc6cdd4a21e3fd2",
   "name": "斋戒",
   "contents": [
     "每因斋戒断荤腥，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

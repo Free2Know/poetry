@@ -1,5 +1,5 @@
 {
-  "_id": "608f4af7eaae42c2b1d35ccd1d32e18e",
+  "_id": "be8638529c9e48f5b2f7aef007a5e9ec",
   "name": "吾土",
   "contents": [
     "身心安处为吾土，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

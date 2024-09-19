@@ -1,5 +1,5 @@
 {
-  "_id": "5cf281dfbbd8401280f6f64f01607f5f",
+  "_id": "6acfb8c9eaba44c4a5aadbada3f6b2d4",
   "name": "榆林郡歌",
   "contents": [
     "山头松柏林。",
@@ -11,11 +11,10 @@
   ],
   "ptype": null,
   "poetName": "王维",
-  "poetId": "e12c9b62eeb446288168e2a6bec4aa84",
+  "poetId": "37d898722e054cb28508509ddcd22139",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王维",
-    ""
+    "王维"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "d5f0e5e2da4848c780cfdabd42a885d8",
+  "_id": "53c4108edbe24055978025408a6b1ecd",
   "name": "琴曲歌辞·蔡氏五弄·游春曲二首",
   "contents": [
     "万树江边杏，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "王涯",
-  "poetId": "9a75c45f300f4ee4af1e8bc61029fce6",
+  "poetId": "9bd06cd28e4d455cb0f821e7cd66b404",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "王涯",
-    ""
+    "王涯"
   ]
 }

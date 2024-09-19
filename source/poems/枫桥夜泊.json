@@ -1,5 +1,5 @@
 {
-  "_id": "50a628a8dc594d8d84e14e2d395995ab",
+  "_id": "d9c7ab49665f453ba0998c7f480c45cf",
   "name": "枫桥夜泊",
   "contents": [
     "月落乌啼霜满天，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "张继",
-  "poetId": "38b40f1747cd4a968d7104ae3f17042e",
+  "poetId": "19418e9d21d942d882c2f53ac712f1d4",
   "form": "七绝",
   "tags": [
     "06.唐代",
-    "张继",
-    ""
+    "张继"
   ]
 }

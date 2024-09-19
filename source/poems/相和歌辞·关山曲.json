@@ -1,5 +1,5 @@
 {
-  "_id": "ce3ec76eb9844a0f80bc39cb0691f572",
+  "_id": "1cbe29020a334bd9b45814b369f9ca4a",
   "name": "相和歌辞·关山曲",
   "contents": [
     "金锁耀兜鍪，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "马戴",
-  "poetId": "d12652315fc8431eb83ae1f1670f56d5",
+  "poetId": "db14ec8dfa7a4a92987b2e2357aaa5b6",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "马戴",
-    ""
+    "马戴"
   ]
 }

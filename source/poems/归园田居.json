@@ -1,5 +1,5 @@
 {
-  "_id": "90013a37ba97486bbc6e760eb26f103a",
+  "_id": "13b6197f94604bb986cc19a5cd81c0df",
   "name": "归园田居",
   "contents": [
     "少无适俗韵，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "陶渊明",
-  "poetId": "2e59dab1bdde483490117fc9d581f122",
+  "poetId": "bfc6e98ad7f442d1a7c49a7c3ed54f1e",
   "form": "未知",
   "tags": [
     "04.南北朝",
-    "陶渊明",
-    ""
+    "陶渊明"
   ]
 }

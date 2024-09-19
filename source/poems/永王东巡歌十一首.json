@@ -1,5 +1,5 @@
 {
-  "_id": "22e88852323a40a4bfca9d6314e0b07c",
+  "_id": "7999efdc2c56476580d76cb6b31372ba",
   "name": "永王东巡歌十一首",
   "contents": [
     "永王正月东出师，",
@@ -49,11 +49,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

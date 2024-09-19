@@ -1,5 +1,5 @@
 {
-  "_id": "8fc292bf77e543c582b823a5f0343e45",
+  "_id": "8d95ce5b00d94e8482ef3f58e73ed6bb",
   "name": "扬旗",
   "contents": [
     "江雨飒长夏，",
@@ -29,11 +29,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "16f73098bb00489182f8f18c7ed47d87",
+  "_id": "0aaf29261a04486283f1d9bb556ed73a",
   "name": "咏怀古迹·其四",
   "contents": [
     "蜀主窥吴幸三峡，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

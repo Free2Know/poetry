@@ -1,5 +1,5 @@
 {
-  "_id": "bf6d1be38ff14e0fa02229dd35e0733f",
+  "_id": "e95962b1ca1a4c5280fd7957fe087996",
   "name": "兵车行",
   "contents": [
     "车辚辚，",
@@ -41,11 +41,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

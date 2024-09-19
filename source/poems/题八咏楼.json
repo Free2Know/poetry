@@ -1,5 +1,5 @@
 {
-  "_id": "0f2e743b8cc94a2e80b0ea3d233b3414",
+  "_id": "71bf85779be5477694d6564ee4ea5d12",
   "name": "题八咏楼",
   "contents": [
     "千古风流八咏楼，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李清照",
-  "poetId": "7c041edcd2e041568ea43dd6e054a231",
+  "poetId": "28bf48bcee484a5a819cf5156a3ff5b7",
   "form": "七绝",
   "tags": [
     "07.宋代",
-    "李清照",
-    ""
+    "李清照"
   ]
 }

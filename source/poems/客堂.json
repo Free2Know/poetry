@@ -1,5 +1,5 @@
 {
-  "_id": "ffb87759bfee4a718485a456c7728e6f",
+  "_id": "fe89814ee4dd45c588b0991bab1980a6",
   "name": "客堂",
   "contents": [
     "忆昨离少城，",
@@ -47,11 +47,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

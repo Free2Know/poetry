@@ -1,5 +1,5 @@
 {
-  "_id": "d590887f4ad84607bff3894ff2faa136",
+  "_id": "90e6c709b67544fab7a7d39d5b9edd8a",
   "name": "甘园",
   "contents": [
     "春日清江岸，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

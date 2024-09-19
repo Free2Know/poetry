@@ -1,5 +1,5 @@
 {
-  "_id": "4d6527a225614e9ea40729bfd1753140",
+  "_id": "b2e092b082ab4192bb1db19707db1a0a",
   "name": "望牛头寺",
   "contents": [
     "牛头见鹤林，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }

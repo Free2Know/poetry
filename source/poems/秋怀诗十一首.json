@@ -1,5 +1,5 @@
 {
-  "_id": "a1f9fa74255f440486c6ca443a02616b",
+  "_id": "7fc5fd71ea2f4f1683c34023579bac50",
   "name": "秋怀诗十一首",
   "contents": [
     "窗前两好树，",
@@ -97,11 +97,10 @@
   ],
   "ptype": null,
   "poetName": "韩愈",
-  "poetId": "e6fc50c7c0634272aeeddc7f8bc43230",
+  "poetId": "f1620b7783874cebac0f1409c43a08e6",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "韩愈",
-    ""
+    "韩愈"
   ]
 }

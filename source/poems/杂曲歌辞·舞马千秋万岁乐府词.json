@@ -1,5 +1,5 @@
 {
-  "_id": "1a9bd9729fb04b0c99c246239eb8fe72",
+  "_id": "5e999c5070f04df8803aacef900a2c71",
   "name": "杂曲歌辞·舞马千秋万岁乐府词",
   "contents": [
     "金天诞圣千秋节，",
@@ -29,11 +29,10 @@
   ],
   "ptype": null,
   "poetName": "张说",
-  "poetId": "b81ed3ab171f4f1086eee34ce1731f54",
+  "poetId": "5db142df4e374fd7921a571e505f6f23",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "张说",
-    ""
+    "张说"
   ]
 }

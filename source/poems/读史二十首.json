@@ -1,5 +1,5 @@
 {
-  "_id": "1590c21979ba41c4baf941910b48cbcd",
+  "_id": "a318b23b45e34c969bf9bb8f7905a6b7",
   "name": "读史二十首",
   "contents": [
     "一回首西陲势渺茫，",
@@ -83,11 +83,10 @@
   ],
   "ptype": null,
   "poetName": "王国维",
-  "poetId": "6f1f289d78844c7e9d3c60b0ee37cb11",
+  "poetId": "63e876ca716a4d6da0494e089eae0592",
   "form": "未知",
   "tags": [
     "11.近现代",
-    "王国维",
-    ""
+    "王国维"
   ]
 }

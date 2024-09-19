@@ -1,5 +1,5 @@
 {
-  "_id": "8a65ab9d72134b4d9641c24cb7d65ef1",
+  "_id": "0a7d6f09a6d54fca8c158ebbc7c388b9",
   "name": "白鹭鸶",
   "contents": [
     "白鹭下秋水，",
@@ -9,11 +9,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "五绝",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

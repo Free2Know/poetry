@@ -1,5 +1,5 @@
 {
-  "_id": "d618bdd19665456eb0a9ee4a806f595e",
+  "_id": "f4d34e640d1e425e9a7bad35bda809bc",
   "name": "大风歌",
   "contents": [
     "大风起兮云飞扬，",
@@ -8,11 +8,10 @@
   ],
   "ptype": null,
   "poetName": "刘邦",
-  "poetId": "97ea8743d6c543df8eb60ad7afb62366",
+  "poetId": "95bdcfaf4d02489f876e79a60d1a126a",
   "form": "未知",
   "tags": [
     "02.汉代",
-    "刘邦",
-    ""
+    "刘邦"
   ]
 }

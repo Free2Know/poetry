@@ -1,5 +1,5 @@
 {
-  "_id": "0b3f543b3c6d49529cd5603f92780a9b",
+  "_id": "3fb103dbe19f49cfa2cee64503d7bc92",
   "name": "酒肆行",
   "contents": [
     "豪家沽酒长安陌，",
@@ -25,11 +25,10 @@
   ],
   "ptype": null,
   "poetName": "韦应物",
-  "poetId": "fc5761b2be4b45dcb0e86f614ea88a96",
+  "poetId": "45a80c2fc73a4437b0b6c41a5fc10227",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "韦应物",
-    ""
+    "韦应物"
   ]
 }

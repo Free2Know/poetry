@@ -1,5 +1,5 @@
 {
-  "_id": "af2684d3275c4339b554b3f2b4a178d4",
+  "_id": "34c88d5f5c594627b54e4ccb4588c1c1",
   "name": "玉壶吟",
   "contents": [
     "烈士击玉壶，",
@@ -21,11 +21,10 @@
   ],
   "ptype": null,
   "poetName": "李白",
-  "poetId": "1c542937bfe34c558cb9df9ecc9c2d5d",
+  "poetId": "1b59d554dd594c8497d9cceefaf73d61",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "李白",
-    ""
+    "李白"
   ]
 }

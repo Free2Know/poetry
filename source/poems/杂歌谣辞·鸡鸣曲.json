@@ -1,5 +1,5 @@
 {
-  "_id": "d35dc7006f384157b23f5bdceff26ac4",
+  "_id": "28f61e2d953a46e98c28c5065c59e5b6",
   "name": "杂歌谣辞·鸡鸣曲",
   "contents": [
     "鸡初鸣，",
@@ -19,11 +19,10 @@
   ],
   "ptype": null,
   "poetName": "王建",
-  "poetId": "e7908ed42dc84e5a98e44132daf727fa",
+  "poetId": "e4c0f1b14bb84f5580d380c406f4ed58",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "王建",
-    ""
+    "王建"
   ]
 }

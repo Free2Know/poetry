@@ -1,5 +1,5 @@
 {
-  "_id": "62a045df12cc4bc99282fac661aa77f0",
+  "_id": "fb1c3bf938b24291970b206d84f0655a",
   "name": "山居秋思",
   "contents": [
     "一从云水住，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "周贺",
-  "poetId": "2cc3ab32df034e3b860066c9490ae869",
+  "poetId": "1dcebe7978b74148a639d775fa448e03",
   "form": "五律",
   "tags": [
     "06.唐代",
-    "周贺",
-    ""
+    "周贺"
   ]
 }

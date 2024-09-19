@@ -1,5 +1,5 @@
 {
-  "_id": "687e7d71cc2c4f7dac2bf6f1ffd5665b",
+  "_id": "63e4d25b6f8a447d97c5dd45ecff1e2e",
   "name": "渔父词·渔父十五首",
   "contents": [
     "薄晚烟林澹翠微。",
@@ -81,11 +81,10 @@
   ],
   "ptype": null,
   "poetName": "赵构",
-  "poetId": "cd8d0ab264b045ab8715eb7a938abba3",
+  "poetId": "be636d52c1264b90bbff8abba6c9c8ea",
   "form": "词",
   "tags": [
     "07.宋代",
-    "赵构",
-    ""
+    "赵构"
   ]
 }

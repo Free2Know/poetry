@@ -1,5 +1,5 @@
 {
-  "_id": "01fda091877d4ad48b9b2ed780d6e94c",
+  "_id": "17f2fc5608de46179a1da4a7a2ecfdc8",
   "name": "狂吟七言十四韵",
   "contents": [
     "亦知世是休明世，",
@@ -33,11 +33,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "未知",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

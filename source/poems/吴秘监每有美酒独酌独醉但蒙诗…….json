@@ -1,5 +1,5 @@
 {
-  "_id": "8fab786ca4fd4c8ba40aaf772a1dc9a1",
+  "_id": "e04fce2d18a94f90afa04808a88b485c",
   "name": "吴秘监每有美酒独酌独醉但蒙诗……",
   "contents": [
     "蓬山仙客下烟霄，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "白居易",
-  "poetId": "4b47c82f564748dcb909526665b648f9",
+  "poetId": "61c661a769a04e409e99836b8f4a8f79",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "白居易",
-    ""
+    "白居易"
   ]
 }

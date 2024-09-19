@@ -1,5 +1,5 @@
 {
-  "_id": "539697d53f33437a8e96db9a73cb8a37",
+  "_id": "061e690d892a46ad877c5d47f00a65a0",
   "name": "善哉行。其一",
   "contents": [
     "古公亶甫，",
@@ -33,11 +33,10 @@
   ],
   "ptype": null,
   "poetName": "曹操",
-  "poetId": "fea8ed23a93e44b5a4e165dacc86adc4",
+  "poetId": "0c297c10526743f0ae16e2233e6719dc",
   "form": "未知",
   "tags": [
     "03.三国两晋",
-    "曹操",
-    ""
+    "曹操"
   ]
 }

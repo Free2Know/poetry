@@ -1,5 +1,5 @@
 {
-  "_id": "8c7a37809c4344d491d1fbd6be47ef7b",
+  "_id": "3cd3b71f7229449a98edc1ec8e7dfb15",
   "name": "咏怀古迹·其二",
   "contents": [
     "摇落深知宋玉悲，",
@@ -13,11 +13,10 @@
   ],
   "ptype": null,
   "poetName": "杜甫",
-  "poetId": "526c710fccb149fe933edb19dad0ed50",
+  "poetId": "8d8a925e68914c4e93ba72c4de5b17cd",
   "form": "七律",
   "tags": [
     "06.唐代",
-    "杜甫",
-    ""
+    "杜甫"
   ]
 }
