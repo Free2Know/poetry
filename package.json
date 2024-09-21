@@ -1,6 +1,6 @@
 {
   "name": "poetryesm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "诗词集合",
   "type": "module",
   "main": "index.node.js",
