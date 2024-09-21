@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 // 获取当前文件的目录路径
-const __dirname = new URL('.', import.meta.url).pathname;
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 const poetsPath = path.join(__dirname, 'source', 'poets');
 const poemsPath = path.join(__dirname, 'source', 'poems');
