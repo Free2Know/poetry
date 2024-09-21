@@ -1,50 +1,53 @@
-import fs from 'fs/promises';
+import gracefulFs from 'graceful-fs';
 import path from 'path';
 
-// 获取当前工作目录
+const fs = gracefulFs.promises;
+
 const rootPath = process.cwd();
 console.log("Root path:", rootPath);
-
-
 
 const poetsPath = path.resolve(rootPath, 'node_modules', 'poetryesm', 'source', 'poets');
 const poemsPath = path.resolve(rootPath, 'node_modules', 'poetryesm', 'source', 'poems');
 
-console.log('Poets path:', poetsPath); // 打印路径
-console.log('Poems path:', poemsPath); // 打印路径
+console.log('Poets path:', poetsPath);
+console.log('Poems path:', poemsPath);
 
-export async function getPoets() {
+export async function getPoetPaths() {
     try {
         const files = await fs.readdir(poetsPath);
-        return Promise.all(files.map(async (file) => {
-            const content = await fs.readFile(path.join(poetsPath, file), 'utf-8');
-            return JSON.parse(content);
-        }));
+        return files.map(file => path.join(poetsPath, file));
     } catch (error) {
         console.error('Error reading poets directory:', error);
-        throw error; // 重新抛出错误以便调用者处理
+        throw error;
     }
 }
 
-export async function getPoems() {
+export async function getPoemPaths() {
     try {
         const files = await fs.readdir(poemsPath);
-        return Promise.all(files.map(async (file) => {
-            const content = await fs.readFile(path.join(poemsPath, file), 'utf-8');
-            return JSON.parse(content);
-        }));
+        return files.map(file => path.join(poemsPath, file));
     } catch (error) {
         console.error('Error reading poems directory:', error);
-        throw error; // 重新抛出错误以便调用者处理
+        throw error;
     }
 }
 
-export async function getPoemsByPoet(poetName) {
+export async function getPoetByPath(path) {
     try {
-        const poems = await getPoems();
-        return poems.filter(poem => poem.poetName === poetName);
+        const content = await fs.readFile(path, 'utf-8');
+        return JSON.parse(content);
     } catch (error) {
-        console.error('Error filtering poems by poet:', error);
-        throw error; // 重新抛出错误以便调用者处理
+        console.error('Error reading Poet file:', error);
+        throw error;
+    }
+}
+
+export async function getPoemByPath(path) {
+    try {
+        const content = await fs.readFile(path, 'utf-8');
+        return JSON.parse(content);
+    } catch (error) {
+        console.error('Error reading poem file:', error);
+        throw error;
     }
 }
