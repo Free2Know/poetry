@@ -1,14 +1,19 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// 获取当前文件的目录路径
-const __dirname = path.dirname(new URL(import.meta.url).pathname);
+// 获取当前工作目录
+const rootPath = process.cwd();
+console.log("Root path:", rootPath);
 
-const poetsPath = path.resolve(__dirname, 'source', 'poets');
-const poemsPath = path.resolve(__dirname, 'source', 'poems');
+
+
+const poetsPath = path.resolve(rootPath, 'node_modules', 'poetryesm', 'source', 'poets');
+const poemsPath = path.resolve(rootPath, 'node_modules', 'poetryesm', 'source', 'poems');
+
+console.log('Poets path:', poetsPath); // 打印路径
+console.log('Poems path:', poemsPath); // 打印路径
 
 export async function getPoets() {
-    console.log('Poets path:', poetsPath); // 打印路径
     try {
         const files = await fs.readdir(poetsPath);
         return Promise.all(files.map(async (file) => {
@@ -22,7 +27,6 @@ export async function getPoets() {
 }
 
 export async function getPoems() {
-    console.log('Poems path:', poemsPath); // 打印路径
     try {
         const files = await fs.readdir(poemsPath);
         return Promise.all(files.map(async (file) => {
