@@ -1,6 +1,6 @@
 {
   "name": "poetryesm",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "诗词集合",
   "type": "module",
   "main": "index.node.js",
@@ -9,13 +9,15 @@
   "scripts": {
     "test": "exit 0",
     "build": "rollup -c",
-    "start": "node server.js"
+    "start": "node server.js",
+    "generate": "node index.node.js"
   },
   "files": [
     "dist/",
     "source/",
     "index.node.js",
-    "index.browser.js"
+    "index.browser.js",
+    "server.js"
   ],
   "repository": {
     "type": "git",
@@ -37,6 +39,8 @@
     "rollup": "^4.21.3"
   },
   "dependencies": {
-    "graceful-fs": "^4.2.11"
+    "ejs": "^3.1.10",
+    "graceful-fs": "^4.2.11",
+    "yargs": "^17.7.2"
   }
 }

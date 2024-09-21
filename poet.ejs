@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>
+        <%= poet.Name %>
+    </title>
+</head>
+
+<body>
+    <h1>
+        <%= poet.Name %>
+    </h1>
+    <p><strong>朝代:</strong>
+        <%= poet.Dynasty %>
+    </p>
+    <p><strong>生平:</strong>
+        <%= poet.Description %>
+    </p>
+    <p><strong>出生:</strong>
+        <%= poet.Birth %>
+    </p>
+    <p><strong>逝世:</strong>
+        <%= poet.Death %>
+    </p>
+    <h2>诗歌</h2>
+    <ul>
+        <% poet.Poems.forEach(poem=> { %>
+            <li>
+                <h3>
+                    <%= poem.Name %>
+                </h3>
+                <p><strong>形式:</strong>
+                    <%= poem.Form %>
+                </p>
+                <p><strong>标签:</strong>
+                    <%= poem.Tags.join(', ') %></p>
+                <pre><%= poem.Contents.join(' \n') %>
+                        </pre>
+            </li>
+            <% }) %>
+    </ul>
+</body>
+
+</html>
