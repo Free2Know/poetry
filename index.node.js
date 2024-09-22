@@ -13,14 +13,19 @@ const sourcePath = path.resolve(rootPath, 'node_modules', 'poetryesm', 'source')
 console.log('Source path:', sourcePath);
 
 // 获取所有诗人路径
-async function getPoetPaths() {
+export async function getPoetPaths() {
     try {
+        console.log('Checking source path:', sourcePath);
         const directories = await fs.readdir(sourcePath);
+        console.log('Directories:', directories);
+
         const poetPaths = [];
         for (const dir of directories) {
             const dynastyPath = path.join(sourcePath, dir);
+            console.log('Checking directory:', dynastyPath);
             if ((await fs.stat(dynastyPath)).isDirectory()) {
                 const files = await fs.readdir(dynastyPath);
+                console.log('Files in directory:', files);
                 poetPaths.push(...files.map(file => path.join(dynastyPath, file)));
             }
         }
@@ -32,7 +37,7 @@ async function getPoetPaths() {
 }
 
 // 根据路径获取诗人信息
-async function getPoetByPath(filePath) {
+export async function getPoetByPath(filePath) {
     try {
         const content = await fs.readFile(filePath, 'utf-8');
         return JSON.parse(content);
@@ -43,9 +48,12 @@ async function getPoetByPath(filePath) {
 }
 
 // 生成朝代的诗人清单
-async function generateDynastyPoetList(outputPath, dynastyTemplatePath = 'Dynasty.ejs') {
+export async function generateDynastyPoetList(outputPath, dynastyTemplatePath = 'Dynasty.ejs') {
     try {
+        console.log('Generating dynasty poet list...');
         const poetPaths = await getPoetPaths();
+        console.log('Poet paths:', poetPaths);
+
         const poets = await Promise.all(poetPaths.map(async poetPath => {
             const poet = await getPoetByPath(poetPath);
             return poet;
@@ -78,13 +86,11 @@ async function generateDynastyPoetList(outputPath, dynastyTemplatePath = 'Dynast
 }
 
 // 生成HTML页面
-async function generateHtmlPages(outputPath, poetTemplatePath = 'poet.ejs') {
+export async function generateHtmlPages(outputPath, poetTemplatePath = 'poet.ejs') {
     try {
+        console.log('Generating HTML pages...');
         const poetPaths = await getPoetPaths();
-        const poets = await Promise.all(poetPaths.map(async poetPath => {
-            const poet = await getPoetByPath(poetPath);
-            return poet;
-        }));
+        console.log('Poet paths:', poetPaths);
 
         const htmlOutputPath = path.resolve(outputPath, 'poets');
         if (!await fs.exists(htmlOutputPath)) {
