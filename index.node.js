@@ -113,13 +113,15 @@ export async function generateHtmlPages(outputPath, poetTemplatePath = 'poet.ejs
     }
 }
 
+
 // 解析命令行参数
 const argv = yargs(hideBin(process.argv))
     .option('outputPath', {
         alias: 'o',
         describe: 'Output path for generated files',
         type: 'string',
-        demandOption: true
+        demandOption: false, // 不强制要求此选项
+        default: process.cwd() // 默认值为当前工作目录
     })
     .option('dynastyTemplatePath', {
         alias: 'd',
